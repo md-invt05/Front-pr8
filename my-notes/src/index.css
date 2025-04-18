@@ -1,0 +1,35 @@
+.notes-app {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 1rem;
+  background: #f8f8f8;
+}
+
+.note-input {
+  width: 100%;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.add-button {
+  padding: 0.5rem 1rem;
+  margin-bottom: 1rem;
+}
+
+.notes-list {
+  list-style: none;
+  padding: 0;
+}
+
+.note-item {
+  background: #fff;
+  border: 1px solid #ddd;
+  padding: 0.5rem;
+  margin-bottom: 0.5rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.delete-button {
+  margin-left: 1rem;
+}
